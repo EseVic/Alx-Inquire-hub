@@ -209,8 +209,12 @@ Start the server
 
 
 ## Screenshots
-#### TODO: Add screenshots
+![Landing Page](https://github.com/EseVic/Alx-Inquire-hub/assets/108824188/74d6777b-13ed-4e60-b0ed-98f9c4784d2b)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Sign In](https://github.com/EseVic/Alx-Inquire-hub/assets/108824188/a18f0352-b2bc-4f2b-a6a1-54e70d1a8082)
+
+![Home](https://github.com/EseVic/Alx-Inquire-hub/assets/108824188/590f058b-4f83-4df6-936a-4e379f464e07)
+
+
 
 
